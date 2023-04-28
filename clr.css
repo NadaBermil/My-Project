@@ -1,0 +1,76 @@
+
+body{
+    display: flex;
+    height: 100vh;
+}
+
+.color{
+    display: table-cell;
+    border: 5px solid black;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    border: 2px solid black;
+    margin: 3px;
+}
+.clr1{
+    background-color: brown;
+    
+}
+.clr3{
+    background-color: blue;
+}
+.clr4{
+    background-color: aqua;
+}
+.clr4{
+    background-color: rgb(47, 9, 185);
+}
+.clr6{
+    background-color: rgb(75, 27, 51);
+}
+.clr7{
+    background-color: rgb(53, 48, 2);
+}
+.clr8{
+    background-color: rgb(18, 34, 21);
+}
+.clr9{
+    background-color: rgb(82, 20, 10);
+}
+.clr10{
+    background-color: rgba(138, 236, 25, 0.774);
+}
+.clr11{
+    background-color: rgb(187, 132, 201);
+}
+.clr12{
+    background-color: rgb(197, 122, 51);
+}
+.clr13{
+    background-color: rgb(233, 177, 24);
+}
+.clr14{
+    background-color: rgb(164, 212, 31);
+}
+.clr15{
+    background-color: rgb(28, 199, 56);
+}
+.clr16{
+    background-color: rgb(130, 174, 231);
+}
+.clr17{
+    background-color: rgb(9, 29, 27);
+}
+.clr18{
+    background-color: rgb(111, 0, 255);
+}
+.clr19{
+    background-color: rgb(255, 0, 85);
+}
+.clr20{
+    background-color: rgb(171, 204, 21);
+}
+.clr21{
+    background-color: rgb(0, 255, 179);
+}
